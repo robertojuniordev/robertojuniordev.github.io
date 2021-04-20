@@ -1,5 +1,6 @@
 .skill-music{
     display: flex;
+    align-items: center;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 25px;
     color: #D4F0FC;
@@ -7,6 +8,10 @@
 
 .skill-music .icon{
     margin-right: 25px;
+}
+
+.skill-music .title{
+    margin-bottom: 10px;
 }
 
 .skill-music .right{
