@@ -1,0 +1,21 @@
+.skill-music{
+    display: flex;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 25px;
+    color: #D4F0FC;
+}
+
+.skill-music .icon{
+    margin-right: 25px;
+}
+
+.skill-music .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 90px;
+    height: 90px;
+}
