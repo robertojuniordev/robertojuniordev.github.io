@@ -2,3 +2,11 @@
     display: flex;
     justify-content: space-around;
 }
+
+.wrapper-card .link{
+    transition: transform 150ms cubic-bezier(.91,-0.11,.8,2.95);
+}
+
+.wrapper-card .link:hover{
+    transform: scale(1.05);
+}
