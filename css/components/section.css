@@ -2,7 +2,7 @@
     background-color: #02A9F7;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #7C5E99;
+    border-bottom: 10px solid #02577A;
 }
 
 .section .main-title{
@@ -10,6 +10,5 @@
 }
 
 .section.-second{
-    background-color: #000;
-    
+    background-color: #000; 
 }
