@@ -1,6 +1,7 @@
 .main-form{
     background-color: #3A4042;
     padding: 50px 40px;
+    border-bottom: 5px solid #02A9F7;
 }
 
 .main-form .main-title{
